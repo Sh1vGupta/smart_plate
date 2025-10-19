@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Smart Plate**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/739).
 
 
-## 10/19/2025 - Got a Plate Model online   
+## 10/19/2025 6:00 PM - Got a Plate Model online   
 
 Got a Free 3D printable file for a Plate that fits my purpose
 ![WhatsApp Image 2025-10-19 at 17.40.56_45fafff2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f1dce32be4e5797db60a075a77b120f5f7666aae/WhatsApp%20Image%202025-10-19%20at%2017.40.56_45fafff2.jpg)
@@ -22,4 +22,16 @@ now I am planning to make a cavity for screen (OLED for sure) wires through this
 
 
 I'll update y'all when the Cavity is Complete I will try to Speed Run this project as the whole Idea is very simple  
+
+## 10/19/2025 6:54 PM - Created the Cavity in the Plate Now its time to Print!!  
+
+Hey Guys Created the Cavity in the Plate for Screen and Wires to pass through the body and made a mouth on the bottom for the Load cell to be placed
+![WhatsApp Image 2025-10-19 at 18.47.06_5c57aa94.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--dd822cd50ad99f26d20d421175aee42fc95273c6/WhatsApp%20Image%202025-10-19%20at%2018.47.06_5c57aa94.jpg)
+![WhatsApp Image 2025-10-19 at 18.47.05_4f867405.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM2MywicHVyIjoiYmxvYl9pZCJ9fQ==--f23c20bdbbf29f0746ffbd1d800779d31b14e327/WhatsApp%20Image%202025-10-19%20at%2018.47.05_4f867405.jpg)
+
+lets try to print and see how it gets this via a local 3d printing shop which is charging about ~20$ its fairly good price
+![WhatsApp Image 2025-10-19 at 18.51.50_0700d88a.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM2NywicHVyIjoiYmxvYl9pZCJ9fQ==--67258c19d187fcba1a114e3fc55f1a633f5d2df0/WhatsApp%20Image%202025-10-19%20at%2018.51.50_0700d88a.jpg)
+
+I'll update you tomorrow when the print arrives 🫡🫡
+  
 
