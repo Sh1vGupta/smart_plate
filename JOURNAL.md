@@ -35,3 +35,13 @@ lets try to print and see how it gets this via a local 3d printing shop which is
 I'll update you tomorrow when the print arrives 🫡🫡
   
 
+## 10/20/2025 - There was a Error in the Print file   
+
+The Cavity was too close to the outer wall and hence it broke of there so the man who prints fixed it some putty and the Print Quality is awesome. It dosen't feel like any Plastic ![WhatsApp Image 2025-10-20 at 13.52.56_f1cac08e.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ed8fb91c5ba389ace27fe0458f4705d263daade2/WhatsApp%20Image%202025-10-20%20at%2013.52.56_f1cac08e.jpg)
+
+and now I got it So lets go with Electronics 
+I am planning for an ESP32 for Weight data and Data Transmission to Blynk Server to show the current weight
+
+Let me know if any Upgrade you would like to see!
+  
+
